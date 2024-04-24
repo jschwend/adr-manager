@@ -4,7 +4,7 @@ import Components from "unplugin-vue-components/vite";
 
 export default {
     server: {
-        host: "localhost",
+        host: "0.0.0.0",
         port: 8000
     },
     // URL base for production
