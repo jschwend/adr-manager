@@ -1,0 +1,7 @@
+# syntax=docker/dockerfile:1
+
+FROM node:18-bookworm
+WORKDIR /app
+COPY . .
+CMD ["sleep", "infinity"]
+EXPOSE 8000
