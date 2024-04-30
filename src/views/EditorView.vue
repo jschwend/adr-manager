@@ -58,7 +58,7 @@
                     {{ branchName }}
                 </option>
             </select>
-            1.0.2
+            1.0.3
         </v-system-bar>
     </v-card>
 </template>
