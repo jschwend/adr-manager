@@ -1,5 +1,7 @@
 # Use Markdown Architectural Decision Records
 
+* Date: 2024-05-08
+
 ## Context and Problem Statement
 
 We want to record architectural decisions made in this project.
