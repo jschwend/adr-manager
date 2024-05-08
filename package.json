@@ -3,7 +3,7 @@
     "version": "2.0.0",
     "type": "module",
     "scripts": {
-        "start": "vite -l info",
+        "start": "vite",
         "dev": "vite",
         "build": "vite build",
         "serve": "vite preview",
@@ -14,7 +14,7 @@
     },
     "dependencies": {
         "@mdi/font": "^7.2.96",
-        "antlr4": "^4.13.0",
+        "antlr4": "4.13.1-patch-1",
         "axios": "^1.4.0",
         "core-js": "^3.31.1",
         "firebase": "^10.7.0",

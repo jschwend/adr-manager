@@ -5,7 +5,7 @@ import Components from "unplugin-vue-components/vite";
 export default {
     server: {
         host: "0.0.0.0",
-        port: 8000
+        port: 8080
     },
     // URL base for production
     base: "/adr-manager/",

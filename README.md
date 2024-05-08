@@ -114,8 +114,3 @@ If you do not want to use this instance, you can easily set up your own by follo
 
 - Set the callback URL in Github Oauth app configuration to the one provided by Firebase.
 
-## Project Context
-
-This project was started as an undergraduate research project at the Institute of Software Engineering of the University of Stuttgart, Germany.
-It was also submitted to the [ICSE Score Contest 2021](https://conf.researchr.org/home/icse-2021/score-2021).
-Since then, it has been given over to the [ADR organization on GitHub](https://github.com/adr), where it is maintained and extended.

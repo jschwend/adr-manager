@@ -58,7 +58,7 @@
                     {{ branchName }}
                 </option>
             </select>
-            1.0.2
+            <span>Version: {{ version }}</span>
         </v-system-bar>
     </v-card>
 </template>
@@ -105,7 +105,8 @@ export default {
         oldSelected: "",
         branchesName: [],
         currentRepo: "",
-        boolClick: false
+        boolClick: false,
+        version: import.meta.env.VITE_VERSION,
     }),
     computed: {
         showFileExplorer() {
